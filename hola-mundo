@@ -1,0 +1,3 @@
+<?php
+  echo 'Hola, estoy a punto de empezar a utilizar metaboxes con CMB2.';
+?>
